@@ -1,9 +1,9 @@
 class Demo2Class{
 public static void main(String args[])
 {
-int d=66;
-  int vt = 1000;
-  int foo = 230;
-  int doo = 345;
+int d = 100;
+  int foo =300;
+  int doo = 456;
+  int roo = 780;
 }
 }
